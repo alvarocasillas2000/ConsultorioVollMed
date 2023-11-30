@@ -6,12 +6,13 @@
   ?>
 </h1>
 
-<div class ="container">
+
+<div class =".container-fluid">
   <div class = "row">
-    <div class = "col-sm">
+    <div class = "col-sm-4">
       <img src="public/img/cuidado-de-la-salud.png" alt="foto">
     </div>
-    <div class="col-sm card p-4 text-success-emphasis bg-primary-subtle border border-primary-subtle rounded-3">
+    <div class="col-sm-8 card p-4 text-success-emphasis bg-primary-subtle border border-primary-subtle rounded-3">
   <table class="table table-striped" width="100%">
   <thead>
     <tr>
